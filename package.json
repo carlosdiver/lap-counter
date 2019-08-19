@@ -1,11 +1,10 @@
 {
   "name": "01_contador",
   "version": "0.1.0",
-  "homepage" : "https://github.com/carlosdiver/lapcounter",
+  "homepage": "https://github.com/carlosdiver/lapcounter",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
