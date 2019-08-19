@@ -1,0 +1,59 @@
+@import url('//fonts.googleapis.com/css?family=Spinnaker&display=swap');
+
+* {
+  font-family: 'Spinnaker', sans-serif;
+  text-align: center;
+  font-weight: bold;  
+  padding-top: 16px;
+  margin-top: 0;
+}
+#root, body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+}
+h1 {
+  font-size: 4rem;
+  padding-top: 0;
+  margin-top: 0;
+}
+button {
+  font-size: 4rem;
+  background: #f9f9f9;
+  border: 1px solid #000;
+  margin-right: 10px;
+  border-radius: 7px; 
+  outline:none;
+}
+
+button:hover {
+  background: #ccc;
+  cursor: pointer;
+}
+.signals button {
+  padding: 0 30px; 
+  font-size: 5rem;
+  line-height: 90px;
+}
+.buttonAction button {
+  font-size: 1.125rem;
+  font-weight: lighter;
+  padding: 6px 20px; 
+}
+.repsNum {
+  font-size: 10rem;
+  line-height: 20px;
+}
+.repsText, .time span, .zero {
+  font-size: 3rem;
+}
+.totalTime,
+.noLap {
+  font-size: 1.4rem;
+}
+.author {
+  margin-bottom: 16px;
+}
+
